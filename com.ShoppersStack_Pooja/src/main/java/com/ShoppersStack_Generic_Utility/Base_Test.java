@@ -48,7 +48,7 @@ import com.aventstack.extentreports.reporter.ExtentSparkReporter;
 	public void beforeSuit() {
 		
 		System.out.println("@BeforeSuite");
-	}
+	}   
 	
 	@BeforeTest
 	
